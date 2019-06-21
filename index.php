@@ -31,7 +31,7 @@
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100 p-t-50 p-b-90" style="background: #fff;padding:40px;opacity:0.98;width:95%">
-				<form action="admin/index.php" class="login100-form validate-form flex-sb flex-w">
+				<form action="admin/proses/login.php" method="POST" class="login100-form validate-form flex-sb flex-w">
 					<span class="login100-form-title p-b-51">
 						<img src="images/logo.png" alt="" style="width:150px;margin:auto;">
 						<!-- <h2 style="font-size:25px;margin-top:10px;">LOGIN</h2> -->
