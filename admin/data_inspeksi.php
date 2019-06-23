@@ -188,7 +188,7 @@ include "proses/koneksi.php";
                   <td width="1%">:</td>
                   <td>
                     <input type="text" disabled value="<?php echo $id." Crane"; ?>" class="form-control">
-                    <input type="hidden" name="inspeksi" value="<?php echo $id."Crane"; ?>" class="form-control">
+                    <input type="hidden" name="inspeksi" value="<?php echo $id." Crane"; ?>" class="form-control">
                   </td>
                 </tr>
                 <tr>
